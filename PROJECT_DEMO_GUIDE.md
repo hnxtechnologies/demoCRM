@@ -84,7 +84,7 @@ Roles implemented:
 ## 5) UI Layout Walkthrough (What to Show in Demo)
 
 ### A) Sidebar (left)
-- Product branding: `HNX CRM`
+- Product branding: `Demo CRM`
 - Navigation modules:
   - Dashboards
   - Insights
@@ -264,4 +264,4 @@ Recommended next steps for full production:
 
 ## 12) One-Line Pitch
 
-`HNX CRM` is a premium realtime command center that unifies ticketing operations, sales intelligence, and cross-team workflows in one scalable SaaS dashboard.
+`Demo CRM` is a premium realtime command center that unifies ticketing operations, sales intelligence, and cross-team workflows in one scalable SaaS dashboard.

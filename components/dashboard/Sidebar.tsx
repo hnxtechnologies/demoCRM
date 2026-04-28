@@ -37,7 +37,7 @@ export function Sidebar({ collapsed, role }: { collapsed: boolean; role: Role })
         </div>
         {!collapsed && (
           <div>
-            <p className="text-sm font-semibold text-zinc-100">HNX CRM</p>
+            <p className="text-sm font-semibold text-zinc-100">Demo CRM</p>
             <p className="text-xs text-zinc-400">Unified Command Center</p>
           </div>
         )}
